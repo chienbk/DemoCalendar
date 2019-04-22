@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">12dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+
+    <dimen name="default_row_height">48dp</dimen>
+    <dimen name="item_row_height">40dp</dimen>
+    <dimen name="carousel_height">64dp</dimen>
+    <dimen name="common_margin_inside">8dp</dimen>
+    <dimen name="big_header_confirmation">144dp</dimen>
+    <dimen name="big_header_confirmation_data_travel">100dp</dimen>
+    <dimen name="margin_top_radio_button">18dp</dimen>
+    <dimen name="margin_left_right_subscribe_button">16dp</dimen>
+
+    <!--elevation-->
+    <dimen name="elevation_toolbar">8dp</dimen>
+    <dimen name="elevation_search">2dp</dimen>
+    <dimen name="elevation_button_normal">2dp</dimen>
+    <dimen name="dialogs_elevation">24dp</dimen>
+    <dimen name="dialogs_elevation_data_travel">1dp</dimen>
+    <!--elevation-->
+
+    <!--Horizontal spacing-->
+    <!--Horizontal spacing-->
+
+    <!--Vertical spacing-->
+    <dimen name="space_between_content_areas">8dp</dimen>
+    <!--Vertical spacing-->
+
+    <!--Bottom sheet-->
+    <dimen name="margin_bottom_sheet">8dp</dimen>
+    <dimen name="list_item_bottom_sheet">48dp</dimen>
+    <dimen name="list_item_bottom_sheet_manage_user">35dp</dimen>
+    <!--Bottom sheet-->
+
+    <!--Common height-->
+    <dimen name="app_launch_icon_size">40dp</dimen>
+    <dimen name="app_login_form">15dp</dimen>
+    <dimen name="login_height_button">50dp</dimen>
+    <dimen name="funnel_button_height">60dp</dimen>
+    <dimen name="common_height_button">40dp</dimen>
+    <dimen name="dismiss_button_size">36dp</dimen>
+    <dimen name="dropdown_height">40dp</dimen>
+    <dimen name="list_big_height">70dp</dimen>
+    <dimen name="popup_window_up">-45dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="list_item_normal">72dp</dimen>
+    <dimen name="header_height_size">96dp</dimen>
+    <dimen name="margin_top_tab_bar">88dp</dimen>
+    <dimen name="margin_top_title_header">19dp</dimen>
+    <dimen name="header_icon_button_size">32dp</dimen>
+    <dimen name="header_icon_button_size_large">50dp</dimen>
+    <dimen name="common_icon_size">24dp</dimen>
+    <dimen name="common_header_height">35dp</dimen>
+    <!--Common height-->
+
+    <!--Common width-->
+    <dimen name="divider_size_small">1dp</dimen>
+    <dimen name="divider_size_medium">2dp</dimen>
+    <dimen name="divider_size_large">3dp</dimen>
+    <dimen name="divider_size_xlarge">4dp</dimen>
+    <dimen name="edit_text_width">110dp</dimen>
+    <dimen name="button_common_width">72dp</dimen>
+    <!--Common width-->
+
+    <!--Text size-->
+    <!-- Font sizes, https://material.io/guidelines/style/typography.html#typography-typeface -->
+    <dimen name="text_size_nano">8dp</dimen>
+    <dimen name="text_size_supper_micro">11dp</dimen>
+    <dimen name="text_size_micro">12dp</dimen>
+    <dimen name="text_size_small">14dp</dimen>
+    <dimen name="text_size_strange">15dp</dimen>
+    <dimen name="text_size_medium">16dp</dimen>
+    <dimen name="screen_title_text_size">17dp</dimen>
+    <dimen name="text_size_semi_large">18dp</dimen>
+    <dimen name="text_size_plan_detail">19dp</dimen>
+    <dimen name="text_size_large">20dp</dimen>
+    <dimen name="text_size_big">24dp</dimen>
+    <dimen name="text_size_welcome">25dp</dimen>
+    <dimen name="text_size_bigger">28dp</dimen>
+    <dimen name="text_size_xlarge">32dp</dimen>
+    <dimen name="bill_setting_title_size">36dp</dimen>
+    <dimen name="text_size_mlarge">40dp</dimen>
+    <dimen name="text_size_xxlarge">45dp</dimen>
+    <dimen name="text_size_xxxlarge">56dp</dimen>
+    <dimen name="text_size_small_dp">16dp</dimen>
+    <!--Text size-->
+
+    <!-- Margins & Padding, 8 dp baseline, https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-baseline-grids -->
+    <dimen name="margin_micro">2dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="margin_top_title">12dp</dimen>
+    <dimen name="screen_edge_margin">16dp</dimen>
+    <dimen name="list_content_margin">24dp</dimen>
+    <dimen name="content_margin">16dp</dimen>
+    <dimen name="strange_margin_top_small">20dp</dimen>
+    <dimen name="strange_margin_top">26dp</dimen>
+    <dimen name="strange_margin_big">36dp</dimen>
+    <dimen name="margin_title">24dp</dimen>
+
+    <dimen name="margin_padding_tiny">3dp</dimen>
+    <dimen name="margin_padding_smaller">5dp</dimen>
+    <dimen name="margin_padding_small">6dp</dimen>
+    <dimen name="margin_padding_size_semi_small">8dp</dimen>
+    <dimen name="margin_padding_default">10dp</dimen>
+    <dimen name="margin_padding_size_medium">16dp</dimen>
+    <dimen name="margin_padding_size_supper_medium">17dp</dimen>
+    <dimen name="margin_padding_size_semi_large">20dp</dimen>
+    <dimen name="margin_padding_size_large">24dp</dimen>
+    <dimen name="design_margin_top">30dp</dimen>
+    <dimen name="margin_padding_size_xlarge">32dp</dimen>
+    <dimen name="margin_padding_xxlarge">40dp</dimen>
+    <dimen name="margin_padding_xxxlarge">44dp</dimen>
+    <dimen name="margin_padding_huge">48dp</dimen>
+    <dimen name="margin_padding_xhuge">64dp</dimen>
+    <dimen name="margin_padding_xxhuge">100dp</dimen>
+    <!--Margins & Padding-->
+
+    <!-- Launcher Icon Size, https://developer.android.com/guide/practices/ui_guidelines/icon_design_launcher.html#size -->
+    <dimen name="launcher_icon_size">@dimen/standard_touch_size</dimen>
+
+    <!-- Touch Target Size, https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-touch-target-size-->
+    <dimen name="standard_touch_size">48dp</dimen>
+
+    <!-- Toolbar, 4 dp baseline, https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-baseline-grids -->
+    <dimen name="toolbar_margin_size">4dp</dimen>
+    <dimen name="toolbar_icon_size">24dp</dimen>
+
+    <!--Dialogs-->
+    <dimen name="dialogs_padding_around_content_area">24dp</dimen>
+    <dimen name="dialogs_padding_between_title_and_body_text">20dp</dimen>
+    <dimen name="dialogs_padding_around_buttons">8dp</dimen>
+    <dimen name="dialogs_action_area_height">52dp</dimen>
+    <dimen name="dialog_around_content_padding">24dp</dimen>
+    <dimen name="dialog_title_body_padding">20dp</dimen>
+    <dimen name="dialog_around_button_padding">8dp</dimen>
+    <dimen name="dialog_button_height">36dp</dimen>
+
+    <!--Bar chart-->
+    <dimen name="bar_chart_text_size">18dp</dimen>
+    <dimen name="bar_chart_text_size_X_Axis">16dp</dimen>
+
+    <!--Common text view height-->
+    <dimen name="min_height_text_level_1">60dp</dimen>
+    <dimen name="min_height_text_level_2">48dp</dimen>
+    <dimen name="min_height_text_level_3">30dp</dimen>
+    <dimen name="min_height_text_level_4">27dp</dimen>
+    <dimen name="min_height_text_level_5">40dp</dimen>
+    <dimen name="min_height_text_regular">24dp</dimen>
+    <dimen name="min_height_text_caption">18dp</dimen>
+
+    <!--Specific dimens-->
+    <dimen name="data_usage_padding_top">100dp</dimen>
+    <dimen name="assign_info_height">85dp</dimen>
+    <dimen name="bill_pay_all_bill_width">184dp</dimen>
+    <dimen name="bill_pay_all_bill_margin_top">94dp</dimen>
+    <dimen name="bill_no_margin_top">27dp</dimen>
+    <dimen name="view_full_bill_width">201dp</dimen>
+    <dimen name="bill_detail_item_address_width">177dp</dimen>
+    <dimen name="bill_detail_make_payment_width">170dp</dimen>
+    <dimen name="relative_recent_bill_chart_height">270dp</dimen>
+    <dimen name="data_entitlement_margin_top">22dp</dimen>
+    <dimen name="arrow_margin_start">20dp</dimen>
+    <dimen name="DBS_image_width">80dp</dimen>
+    <dimen name="DBS_image_height">24dp</dimen>
+    <dimen name="ocbc_image_width">116dp</dimen>
+    <dimen name="posb_image_width">80dp</dimen>
+    <dimen name="posb_image_height">24dp</dimen>
+    <dimen name="giro_item_height">103dp</dimen>
+    <dimen name="reward_point_text_margin_top">45dp</dimen>
+    <dimen name="reward_go_to_portal_margin_top">58dp</dimen>
+    <dimen name="reward_go_to_portal_width">219dp</dimen>
+    <dimen name="reward_status_heght">27dp</dimen>
+    <dimen name="reward_relative_layout_heght">156dp</dimen>
+    <dimen name="reward_relative_layout_margin_start">44dp</dimen>
+    <dimen name="reward_relative_layout_margin_top">72dp</dimen>
+    <dimen name="reward_relative_layout_margin_end">42dp</dimen>
+    <dimen name="reward_place_holder_layout_height">179dp</dimen>
+    <dimen name="recent_bill_chart_height">250dp</dimen>
+    <dimen name="local_usage_progress_width">80dp</dimen>
+    <dimen name="local_usage_progress_height">4dp</dimen>
+    <dimen name="stroke_width">16dp</dimen>
+    <dimen name="local_alert_btn_size">20dp</dimen>
+    <dimen name="plan_detail_btn_size">50dp</dimen>
+    <dimen name="local_alert_button_width">150dp</dimen>
+    <dimen name="button_width">151.0dp</dimen>
+    <dimen name="button_addon_item_width">120dp</dimen>
+    <dimen name="more_add_on_button_item_width">110.0dp</dimen>
+    <dimen name="button_confirm_width">100dp</dimen>
+    <dimen name="image_width_height">75dp</dimen>
+    <dimen name="status_height">184dp</dimen>
+    <dimen name="status_height_large">222dp</dimen>
+    <dimen name="image_arrow_right_width_height">24dp</dimen>
+    <dimen name="radius_larger">36dp</dimen>
+    <dimen name="radius_tiny">4dp</dimen>
+    <dimen name="radius_super_tiny">2dp</dimen>
+    <dimen name="giro_button_width">265dp</dimen>
+    <dimen name="no_vas_button_width">134dp</dimen>
+    <dimen name="appointment_width_size">250dp</dimen>
+    <dimen name="cancel_appointment_width_size">220dp</dimen>
+    <dimen name="header_icon_info_size">18dp</dimen>
+    <dimen name="roaming_save_change_btn_width">160dp</dimen>
+    <dimen name="roaming_alert_button_width">92dp</dimen>
+    <dimen name="search_bar_width">44dp</dimen>
+    <dimen name="search_icon_width">24dp</dimen>
+    <dimen name="search_icon_height">24dp</dimen>
+    <dimen name="margin_usage_overview">7dp</dimen>
+
+    <dimen name="roaming_vases_margin_bottom">-65dp</dimen>
+    <dimen name="explore_button_width">115dp</dimen>
+    <dimen name="get_started_button_width">150dp</dimen>
+    <dimen name="add_plan_button_width">160dp</dimen>
+    <dimen name="quick_link_item_height">50dp</dimen>
+    <dimen name="basic_roaming_item_button_width">150dp</dimen>
+
+    <dimen name="basic_roaming_plan_width">170dp</dimen>
+    <dimen name="add_on_text_height">34dp</dimen>
+    <dimen name="item_roaming_added_view_height">65dp</dimen>
+    <dimen name="item_roaming_vas_name_height">61dp</dimen>
+
+    <dimen name="background_search_cursor_width">1dp</dimen>
+    <dimen name="background_search_cursor_height">21dp</dimen>
+    <dimen name="item_search_height">21dp</dimen>
+    <dimen name="popup_background_radius">22dp</dimen>
+
+    <dimen name="question_mark_size">14dp</dimen>
+    <dimen name="more_add_on_height_vas_item">117dp</dimen>
+    <dimen name="datashare_rec_size">333dp</dimen>
+    <dimen name="datashare_button_width">185dp</dimen>
+    <dimen name="datashare_btn_subscribe_now_width">160dp</dimen>
+    <dimen name="datashare_btn_subscribe_now_width_large">168dp</dimen>
+    <dimen name="datashare_subscribe_button_width">229dp</dimen>
+    <dimen name="datashare_subscribe_button_width_large">239dp</dimen>
+    <dimen name="subscribe_padding">3dp</dimen>
+    <dimen name="more_add_on_button_width">180dp</dimen>
+    <dimen name="bottom_view_height">72dp</dimen>
+    <dimen name="more_add_on_title_info">170dp</dimen>
+
+    <dimen name="border_radius">20dp</dimen>
+    <dimen name="common_radius">5dp</dimen>
+    <dimen name="border_question_mark">2dp</dimen>
+    <dimen name="min_height">1dp</dimen>
+
+    <dimen name="more_add_on_button_cancel_width">110dp</dimen>
+    <dimen name="bottom_view_margin">120dp</dimen>
+    <dimen name="radio_button_size">16dp</dimen>
+    <dimen name="radio_button_size_large">24dp</dimen>
+    <dimen name="shadow_size">3dp</dimen>
+    <dimen name="vas_dropped_cancel_button_size">126dp</dimen>
+    <dimen name="vas_dropped_drop_button_size">184dp</dimen>
+
+    <dimen name="data_share_sign_up_button_width">94dp</dimen>
+    <dimen name="data_share_sign_up_review_button_width">120dp</dimen>
+
+    <dimen name="data_travel_margin_start">47dp</dimen>
+    <dimen name="data_travel_select_country_height">60dp</dimen>
+    <dimen name="data_travel_roaming_item_height">97dp</dimen>
+    <dimen name="data_travel_right_width">100dp</dimen>
+    <dimen name="data_travel_btn_confirm_width">120dp</dimen>
+    <dimen name="data_travel_progress">6dp</dimen>
+
+    <dimen name="question_size">16dp</dimen>
+
+    <dimen name="status_width">66dp</dimen>
+    <dimen name="strange_height">218dp</dimen>
+    <dimen name="place_holder_height">220dp</dimen>
+    <dimen name="min_height_dialog_title">80dp</dimen>
+    <dimen name="odd_dimen">158dp</dimen>
+    <dimen name="odd_dimen_large">168dp</dimen>
+    <dimen name="btnPending">280dp</dimen>
+
+    <dimen name="navigate_local_layout_height">44dp</dimen>
+    <dimen name="bar_chart_local_layout_height">350dp</dimen>
+    <dimen name="bar_chart_local_layout_padding_end">-12dp</dimen>
+
+    <dimen name="bar_chart_form_local_layout_width_height">8dp</dimen>
+    <dimen name="jp_custom_view_button_one_size">181dp</dimen>
+    <dimen name="jp_custom_view_button_two_size">114dp</dimen>
+    <dimen name="jp_no_subscribe_image_width">117dp</dimen>
+    <dimen name="jp_no_subscribe_image_height">128dp</dimen>
+    <dimen name="jp_button_width">185dp</dimen>
+
+    <dimen name="recontract_imv_gift_size">23dp</dimen>
+    <dimen name="recontract_voucher_height">56dp</dimen>
+    <dimen name="snow_vas_height">64dp</dimen>
+    <dimen name="snow_image_height">184dp</dimen>
+    <dimen name="snow_vas_btn_width">185dp</dimen>
+
+    <dimen name="cash_image_width">40dp</dimen>
+    <dimen name="cash_image_height">34dp</dimen>
+    <dimen name="creditcard_image_width">40dp</dimen>
+    <dimen name="creditcard_image_height">40dp</dimen>
+    <dimen name="giro_image_width">40dp</dimen>
+    <dimen name="giro_image_height">18dp</dimen>
+
+    <dimen name="question_image_width">16dp</dimen>
+    <dimen name="question_image_height">16dp</dimen>
+
+    <dimen name="snow_vas_img_width">87dp</dimen>
+    <dimen name="snow_vas_img_height">64dp</dimen>
+
+    <dimen name="jp_progressbar_height">20dp</dimen>
+    <dimen name="progressbar_small">12dp</dimen>
+
+
+    <dimen name="tv_recontract_button_width">150dp</dimen>
+    <dimen name="tv_explore_plans_button_width">168dp</dimen>
+    <dimen name="tv_explore_plans_button_margin_bottom">69dp</dimen>
+
+    <dimen name="mob_img_size">80dp</dimen>
+    <dimen name="login_btn_height">60dp</dimen>
+    <dimen name="login_bg_login_top_height">80dp</dimen>
+    <dimen name="login_alert_ic_size">32dp</dimen>
+    <dimen name="register_btn_width">127dp</dimen>
+    <dimen name="login_btn_width">143dp</dimen>
+    <dimen name="login_edittext_height">62dp</dimen>
+    <dimen name="login_btn_clear_size">28dp</dimen>
+    <dimen name="login_bg_white_height">54dp</dimen>
+    <dimen name="login_bg_transparent_height">8dp</dimen>
+    <dimen name="login_icon_big_height">200dp</dimen>
+    <dimen name="login_icon_smaller_width">120dp</dimen>
+    <dimen name="login_icon_smaller_height">40dp</dimen>
+    <dimen name="bottom_bar_nav_height">56dp</dimen>
+    <dimen name="ic_bb_image_width">71dp</dimen>
+    <dimen name="ic_bb_image_height">71dp</dimen>
+    <dimen name="detail_usage_title_width">225dp</dimen>
+    <dimen name="detail_usage_title_height">35dp</dimen>
+    <dimen name="let_button_width">175dp</dimen>
+
+    <dimen name="tab_indicator_height">5dp</dimen>
+    <dimen name="text_marker_min_width">25dp</dimen>
+    <dimen name="text_marker_elevation">50dp</dimen>
+
+    <dimen name="btn_unsubscribe_width">125dp</dimen>
+
+    <dimen name="btn_ok_overlay_dialog">180dp</dimen>
+
+    <dimen name="hdl_layout_width">50dp</dimen>
+    <dimen name="hdl_dot_size">10dp</dimen>
+    <dimen name="hdl_dot_radius_size">5dp</dimen>
+    <dimen name="padding_day">90dp</dimen>
+    <dimen name="title_width">116dp</dimen>
+    <dimen name="payment_option_btn_width">120dp</dimen>
+    <dimen name="btn_save_width">208dp</dimen>
+    <dimen name="margin_welcome_to_new_country">28dp</dimen>
+    <dimen name="billing_address_edittext_height">55dp</dimen>
+    <dimen name="radio_button_selected_stroke_width">9dp</dimen>
+    <dimen name="tutorial_start_margin_top">110dp</dimen>
+
+    <dimen name="roaming_usage_active_now_width">210dp</dimen>
+    <dimen name="roaming_usage_globe_size">80dp</dimen>
+    <dimen name="roaming_usage_globe_margin_top">36dp</dimen>
+    <dimen name="roaming_usage_globe_margin_bottom">13dp</dimen>
+    <dimen name="button_roaming_addon_item_width">150dp</dimen>
+
+    <!--Use to new line screen-->
+    <dimen name="lb_select_number_new_line">20sp</dimen>
+    <dimen name="lb_select_number_new_line_margin_left">21dp</dimen>
+</resources>

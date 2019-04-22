@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloRecycle</string>
+    <!-- Use to new line screen -->
+    <string name="text_description_new_line">Select a new number</string>
+</resources>

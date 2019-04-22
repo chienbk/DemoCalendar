@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#73c20e</color>
+    <color name="colorPrimaryDark">#009849</color>
+    <color name="colorAccent">#91c63f</color>
+    <color name="line">#dbdbdb</color>
+    <color name="grey">#6a6f7b</color>
+    <color name="grey_light">#d3d3d3</color>
+    <color name="primary_background_grey">#f2f2f2</color>
+
+    <color name="lighter_grey_text">#c9c9cb</color>
+    <color name="grey_very_light">#f5f5f5</color>
+    <color name="grey_background">#fbfbfb</color>
+    <color name="white">#ffffffff</color>
+    <color name="grey_secret">#fafafa</color>
+    <color name="grey_title">#ebebeb</color>
+    <color name="grey_sub_title">#f7f7f7</color>
+    <color name="grey_title_background">#EEEEEE</color>
+    <color name="btn_toolbar_selected">#68b308</color>
+    <color name="btn_toolbar_selected_grey">#FFD9D9D9</color>
+    <color name="btn_toolbar_unselected_grey">#FFF5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="purple">#b000d7</color>
+    <color name="blue_text_color">#25ade9</color>
+    <color name="blue_ao">#2db0e1</color>
+    <color name="purple_ca">#85328e</color>
+    <color name="green_u">#63b155</color>
+    <color name="blue">#149FEC</color>
+    <color name="blue_main">#0AA3DC</color>
+    <color name="green_main">#73C20E</color>
+    <color name="hint_color">#bbbbbb</color>
+    <color name="greyish_brown">#4d4d4c</color>
+
+    <!--Login-->
+    <color name="welcome_title">#58595B</color>
+    <color name="background_header">#EBEBEB</color>
+    <color name="text_password">#9B9B9B</color>
+    <color name="common_pink">#D4358C</color>
+    <color name="not_editable">#A8A9AC</color>
+    <color name="usage_grey_title">#818285</color>
+    <color name="used_grey">#333333</color>
+    <color name="red">#FFD73F44</color>
+    <color name="blue_menu_edit">#0aa3dc</color>
+    <color name="fail_text_color">#FFD2368A</color>
+    <color name="divider_color">#d8d8d8</color>
+    <color name="collapse_item_color">#FFEBEBEB</color>
+
+    <color name="text_color_bill_details">#019849</color>
+    <color name="text_color_expiry">#777776</color>
+    <color name="text_color_bottom_navigation">#0a0a0a</color>
+    <color name="bar_color_recent_bill">#019849</color>
+
+    <color name="screen_background">#d8d8d8</color>
+    <color name="screen_background_result">#F2F2F2</color>
+    <color name="screen_background_light_gray">#40d8d8d8</color>
+    <color name="screen_background_lighter_gray">#64d8d8d8</color>
+    <color name="screen_background_plan_detail">#f9f9fa</color>
+
+    <color name="reward_placeholder_background">#9b9b9b</color>
+    <color name="text_color_point">#9b9b9b</color>
+    <color name="border_reward">#979797</color>
+
+    <!--Common colors-->
+    <color name="common_blue_color">#0074b0</color>
+    <color name="common_green_color">#78bb42</color>
+    <color name="common_yellow_color">#ffdb1b</color>
+    <color name="common_pink_color">#d8127d</color>
+    <color name="text_important_color">#0a0a0a</color>
+    <color name="title_color">#4d4d4c</color>
+    <color name="sub_title_color">#777776</color>
+    <color name="divider_card_color">#cbcccb</color>
+    <color name="bar_chart_background">#f2f2f2</color>
+    <color name="green_primary">@color/colorPrimary</color>
+    <color name="green_primary_disable">#4D73c20e</color>
+
+    <color name="result_background">#FFF9D8</color>
+    <color name="search_bar_change">#007a3a</color>
+    <color name="circle_disabled">#E6F5ED</color>
+    <color name="yellow_progress">#B9D137</color>
+    <color name="text_important_color_half_transparent">#800A0A0A</color>
+    <color name="white_half_transparent">#80000000</color>
+    <color name="text_pending">#4A4A4A</color>
+
+    <color name="bar_chart_background_half_transparent">#80F2F2F2</color>
+    <color name="black_half_transparent">#33000000</color>
+    <color name="yellow_pending">#f5a623</color>
+    <color name="border_yellow">#FFDB1B</color>
+    <color name="border_yellow_alpha">#1AFFDB1B</color>
+
+    <color name="gradient_start">#019447</color>
+    <color name="gradient_end">#6fbb61</color>
+    <color name="gradient_end_new">#6fbb61</color>
+    <color name="gradient_trick">#5eb65d</color>
+    <color name="unselected_tab_text_color">#aedfa8</color>
+    <color name="new_screen_background">#f9f9f9</color>
+    <color name="white_opacity_20">#33ffffff</color>
+    <color name="white_opacity_30">#4Dffffff</color>
+    <color name="green_opacity_30">#4D009849</color>
+    <color name="green_opacity_20">#33009849</color>
+    <color name="selected_profile_background">#EBFFF4</color>
+    <color name="green_dot">#1F9849</color>
+    <color name="black_opacity">#33000000</color>
+    <color name="divider_opacity">#40d8d8d8</color>
+    <color name="divider_review">#aeaeae</color>
+
+    <!--TEXT COLOR-->
+    <color name="text_color_dim_green">#cceadb</color>
+    <color name="background_disable_button">#4D73c20e</color>
+    <color name="boost_color">#2E3192</color>
+    <color name="home_sub_title_color">#4d4d4c</color>
+    <color name="color_bill_number">#7c7c7b</color>
+
+    <!--DIALOG BOX ACTION BAR COLOR-->
+    <color name="full_dialog_box_action_bar_color">#757575</color>
+    <color name="new_line_un_select_bg">#f6f7f9</color>
+    <color name="new_line_un_select_text">#666666</color>
+    <color name="new_line_select_text">#666666</color>
+
+</resources>
